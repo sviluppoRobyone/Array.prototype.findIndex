@@ -11,9 +11,8 @@
     "es6"
   ],
   "license": "MIT",
-  "homepage": "",
   "ignore": [
-    "LICENSE",
+    "LICENSE"
    
   ]
   
