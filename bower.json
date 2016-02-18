@@ -1,5 +1,5 @@
 {
-  "name": "AngularUtils",
+  "name": "Array.prototype.findIndex",
   "version": "1.0.0",
   "description": "",
   "main": [
@@ -15,6 +15,6 @@
   "ignore": [
     "LICENSE",
    
-  ],
+  ]
   
 }
