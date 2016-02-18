@@ -1,0 +1,20 @@
+{
+  "name": "AngularUtils",
+  "version": "1.0.0",
+  "description": "",
+  "main": [
+    "Array.prototype.findIndex.js",
+    "Array.prototype.findIndex.d.ts"
+
+  ],
+  "moduleType": [
+    "es6"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "LICENSE",
+   
+  ],
+  
+}
