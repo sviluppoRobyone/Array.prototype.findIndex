@@ -1,7 +1,8 @@
 {
-  "name": "array-prototype-findIndex",
+  "name": "array-prototype-find-index",
   "version": "1.0.0",
   "description": "",
+  "main": "Array.prototype.findIndex.js"
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
